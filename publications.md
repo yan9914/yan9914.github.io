@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "發表列表"
+title: "Publications"
+permalink: /publications/
 ---
 
 <ul>
