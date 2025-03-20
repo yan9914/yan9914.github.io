@@ -1,0 +1,10 @@
+- title: "論文標題"
+  authors: "作者1, 作者2, 作者3"
+  journal: "期刊名稱"
+  year: 2025
+  url: "https://example.com/your-publication"
+- title: "另一篇論文標題"
+  authors: "作者A, 作者B"
+  journal: "期刊名稱"
+  year: 2024
+  url: "https://example.com/another-publication"
