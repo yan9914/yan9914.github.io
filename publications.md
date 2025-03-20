@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive-publications
 title: "Publications"
 permalink: /publications/
 ---
