@@ -60,28 +60,12 @@
 /* 擴大主要內容區域 */
 .content {
   max-width: 1200px; /* 預設可能是 700px，可以調整成 900px 或更大 */
-  margin: 0 auto; /* 讓內容置中 */
   padding: 20px; /* 內距，讓閱讀體驗更舒適 */
 }
 
 /* 擴大 publications 列表 */
 .publication-list {
   max-width: 1200px;
-  margin: 0 auto;
   padding: 15px;
 }
 
-/* 讓每篇發表條目有明顯的間距 */
-.publication-list li {
-  margin-bottom: 20px;
-  padding: 10px;
-  background: #f8f8f8;
-  border-radius: 5px;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-/* 加粗作者中「Yan-Lin Chen」的名字 */
-.publication-list em strong {
-  font-weight: bold;
-  color: #d32f2f; /* 讓名字顏色稍微突出 */
-}
