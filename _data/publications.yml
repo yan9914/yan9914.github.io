@@ -1,17 +1,28 @@
-- title: "A Study on Jekyll and GitHub Pages"
-  authors: "Yan-Lin Chen, Co-author B"
-  journal: "Journal of Web Development"
+- title: "On definition and interpretation of separable path-specific effects with multiple ordered mediators"
+  authors: "Yan-Lin Chen, Sheng-Hsuan Lin*"
+  journal: "Epidemiology"
+  year: 2025
+  url: ""
+  IF: "JIF 2023: 4.7; Category: PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH; Rank: 41/408 (Q1)"
+
+- title: "Delayed Commissuroplasty Increases Interincisal Distance in Buccogingival Cancer Patients Treated with Free Flap Reconstruction of the Oral Commissure"
+  authors: "Shao Yu Hung, Curtis Hanba, Tommy Nai-Jen Chang, Yan-Lin Chen, Johnny Chuieng-Yi Lu*"
+  journal: "Journal of Reconstructive Microsurgery"
   year: 2024
-  url: "https://example.com/study-on-jekyll"
+  url: "https://doi.org/10.1055/s-0044-1782659"
+  IF: "JIF 2023: 2.2; Category: SURGERY; Rank: 90/292 (Q2)"
 
-- title: "Advances in Machine Learning"
-  authors: "Yan-Lin Chen, Researcher X"
-  journal: "AI Research"
-  year: 2023
-  url: "https://example.com/ml-paper"
+- title: "Robust inference for causal mediation analysis of recurrent event data"
+  authors: "Yan-Lin Chen, Yan-Hong Chen, Pei-Fang Su, Huang-Tz Ou, An-Shun Tai*"
+  journal: "Statistics in Medicine"
+  year: 2024
+  url: "https://doi.org/10.1002/sim.10118"
+  IF: "JIF 2023: 1.8; Category: STATISTICS & PROBABILITY; Rank: 32/168 (Q1)"
 
-- title: "Statistical Methods for Data Science"
-  authors: "Yan-Lin Chen"
-  journal: "Data Science Journal"
-  year: 2023
-  url: "https://example.com/statistics-paper"
+
+- title: "Unravelling the mechanisms of underweight in Parkinson’s disease by investigating into the role of gut microbiome"
+  authors: "Ling-Chieh Shih, Ru-Jen Lin, Yan-Lin Chen, Shih-Chen Fu*"
+  journal: "npj Parkinson's Disease"
+  year: 2024
+  url: "https://doi.org/10.1038/s41531-023-00587-w"
+  IF: "JIF 2023: 6.7; Category: NEUROSCIENCES; Rank: 26/310 (Q1)"

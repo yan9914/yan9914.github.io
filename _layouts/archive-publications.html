@@ -28,15 +28,23 @@ layout: default
     {{ taxonomy.name }}
   </h2>
   <ul class="publication-list">
-    {%- assign publications = taxonomy.items -%}
-    {%- for pub in publications -%}
-      <li>
-        <strong>{{ pub.title }}</strong><br>
-        <em>{{ pub.authors }}</em><br>
-        Published in: {{ pub.journal }}<br>
+  {%- assign publications = taxonomy.items -%}
+  {%- for pub in publications -%}
+    <li>
+      <strong>{{ pub.title }}</strong><br>
+      {%- assign formatted_authors = pub.authors | replace: "Yan-Lin Chen", "<strong>Yan-Lin Chen</strong>" -%}
+      <em>{{ formatted_authors }}</em><br>
+      Published in: {{ pub.journal }}<br>
+      {%- if pub.IF -%}
+        <span class="publication-if">Impact Factor: {{ pub.IF }}</span><br>
+      {%- endif -%}
+      {%- if pub.url != "" -%}
         <a href="{{ pub.url }}" target="_blank">Read more</a>
-      </li>
-    {%- endfor -%}
+      {%- else -%}
+        <span style="color: gray;">No URL available</span>
+      {%- endif -%}
+    </li>
+  {%- endfor -%}
   </ul>
   <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
 {%- endfor -%}
