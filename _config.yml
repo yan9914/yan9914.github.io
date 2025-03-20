@@ -60,13 +60,13 @@ plugins:
 remote_theme: vszhub/not-pure-poole
 
 # Setup
-title: Not Pure Poole
+title: Welcome to my website
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://yan9914.github.io/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -115,6 +115,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yan-Lin Chen
+  url: https://github.com/yan9914/
+  email: yan9914@gmail.com
